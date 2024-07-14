@@ -1,11 +1,11 @@
 # CODETECH-Task1
 
-# Name : Rohan Rajendra Thite 
-# Company : CODETECH IT SOLUTIONS
-# ID : CT08DS4588
-# Domain : DATA SCIENCE
-# Duration : JULY 10th, 2024 to AUGUST 10th, 2024
-# Mentor : Neela Santhosh Kumar
+## Name : Rohan Rajendra Thite 
+## Company : CODETECH IT SOLUTIONS
+## ID : CT08DS4588
+## Domain : DATA SCIENCE
+## Duration : JULY 10th, 2024 to AUGUST 10th, 2024
+## Mentor : Neela Santhosh Kumar
 
 # Overview Of Project 
 # Project : PREDICTIVE MODELING WITH LINEAR REGRESSION
